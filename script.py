@@ -2,7 +2,7 @@
 import math 
 
 # Input: Taking a number from the user 
-num1 = float(input("Enter a number: ")) 
+num1 = float(input("Enter a num1: ")) 
 
 # Processing: Calculating the square root 
 # Using math.sqrt from the math module 
